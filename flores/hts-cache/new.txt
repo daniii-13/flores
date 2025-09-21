@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+23:30:03	51232/51232	---M--	200	added ('OK')	text/html	date:Sun,%2021%20Sep%202025%2014:24:05%20GMT	https://coper.com.pe/floresamarillas.html	C:/My%20Web%20Sites/flores/coper.com.pe/floresamarillas.html	(from )
+23:30:04	40638/40638	---MC-	404	error ('Not%20Found')	text/html	date:Sun,%2021%20Sep%202025%2021:30:04%20GMT	https://coper.com.pe/robots.txt		(from )
+23:30:05	3154684/3154684	---M--	200	added ('OK')	audio/mpeg	date:Sun,%2021%20Sep%202025%2014:28:51%20GMT	https://coper.com.pe/musica.mp3	C:/My%20Web%20Sites/flores/coper.com.pe/musica.mp3	(from https://coper.com.pe/floresamarillas.html)
